@@ -6,7 +6,7 @@
 
 1. Клонировать репозиторий:
 ```bash
-   git clone https://github.com/valeryank/AvitoAPI.git
+   git clone https://github.com/valeryankk/AvitoAPI.git
    cd AvitoAPI
 ```
 
